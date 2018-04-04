@@ -1,4 +1,4 @@
-require File.expand_path("Abstract/abstract-php-extension", __FILE__)
+require File.expand_path("../Abstract/abstract-php-extension", __FILE__)
 
 class Php55Xdebug < AbstractPhp55Extension
   init
